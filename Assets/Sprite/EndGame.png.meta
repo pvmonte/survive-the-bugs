@@ -1,0 +1,199 @@
+fileFormatVersion: 2
+guid: 2bcfb99b13e00964e965035de3f68b83
+timeCreated: 1482450229
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: EndGame_0
+    21300002: EndGame_1
+    21300004: EndGame_2
+    21300006: EndGame_3
+    21300008: EndGame_4
+    21300010: EndGame_5
+    21300012: EndGame_6
+    21300014: EndGame_7
+    21300016: EndGame_8
+    21300018: EndGame_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EndGame_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 423
+        width: 1000
+        height: 601
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EndGame_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 442
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EndGame_2
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 300
+        width: 462
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EndGame_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204
+        width: 462
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EndGame_4
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 208
+        width: 461
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EndGame_5
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 40
+        width: 83
+        height: 106
+      alignment: 9
+      pivot: {x: 0.50882596, y: 0.49078584}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EndGame_6
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 40
+        width: 83
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5058838, y: 0.4884822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EndGame_7
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 37
+        width: 83
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EndGame_8
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 40
+        width: 83
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EndGame_9
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 42
+        width: 367
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

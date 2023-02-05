@@ -1,0 +1,270 @@
+fileFormatVersion: 2
+guid: 7dfa0d0167cafda4cb559e395ee9b2ff
+timeCreated: 1481600515
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "Explos\xE3o_0"
+    21300002: "Explos\xE3o_1"
+    21300004: "Explos\xE3o_2"
+    21300006: "Explos\xE3o_3"
+    21300008: "Explos\xE3o_4"
+    21300010: "Explos\xE3o_5"
+    21300012: "Explos\xE3o_6"
+    21300014: "Explos\xE3o_7"
+    21300016: "Explos\xE3o_8"
+    21300018: "Explos\xE3o_9"
+    21300020: "Explos\xE3o_10"
+    21300022: "Explos\xE3o_11"
+    21300024: "Explos\xE3o_12"
+    21300026: "Explos\xE3o_13"
+    21300028: "Explos\xE3o_14"
+    21300030: "Explos\xE3o_15"
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Explos\xE3o_1"
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 330
+        width: 122
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Explos\xE3o_2"
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 324
+        width: 134
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Explos\xE3o_3"
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 324
+        width: 143
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Explos\xE3o_4"
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 322
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Explos\xE3o_5"
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 323
+        width: 144
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Explos\xE3o_6"
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 178
+        width: 121
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Explos\xE3o_7"
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 175
+        width: 130
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Explos\xE3o_8"
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 170
+        width: 138
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Explos\xE3o_9"
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 168
+        width: 139
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Explos\xE3o_10"
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 168
+        width: 137
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Explos\xE3o_11"
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 28
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Explos\xE3o_12"
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 21
+        width: 130
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Explos\xE3o_13"
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 12
+        width: 137
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Explos\xE3o_14"
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 16
+        width: 138
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Explos\xE3o_15"
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 12
+        width: 134
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
