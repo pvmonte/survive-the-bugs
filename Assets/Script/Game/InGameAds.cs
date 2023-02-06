@@ -13,11 +13,11 @@ public class InGameAds : MonoBehaviour {
 
 	public void ShowAd()
 	{
-		if (Advertisement.IsReady ()) {
-			Advertisement.Show ();
-			countForAds = 0;
-			//Time.timeScale = 1;
-		}
+		//if (Advertisement.IsReady ()) {
+		//	Advertisement.Show ();
+		//	countForAds = 0;
+		//	//Time.timeScale = 1;
+		//}
 		
 	}
 }
